@@ -1,6 +1,8 @@
 # 🌟 𝐑𝐏𝐆-𝐔𝐥𝐭𝐫𝐚 𝐕𝟑 🌟
 ¡Bienvenido al juego más loco, divertido y completo de WhatsApp RPG jamás creado!
 
+![RPG-ULTRA](RPG-Ultra%20-%20SoyMaycol.png)
+
 Prepárate para **aventuras épicas**, **mascotas adorables**, **drama romántico**, **clanes poderosos**, y sí… incluso *amigos traicioneros que dicen “Mira mira... como tú papaaa”*. JAJA
 
 ---
