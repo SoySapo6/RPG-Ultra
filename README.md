@@ -5,9 +5,9 @@ Prepárate para **aventuras épicas**, **mascotas adorables**, **drama romántic
 
 ---
 
-## ╔══════════════════════
-### ║ ⚔️ COMANDOS DE ACCIÓN ⚔️
-## ╠══════════════════════
+## ╔══════════════╠SoyMaycol
+###  COMANDOS DE ACCIÓN 👻
+## ╠══════════════╠SoyMaycol
 
 - ➤ `rpgprofile` → Muestra tu perfil épico.
 - ➤ `adventure` → ¡Explora mazmorras misteriosas!
@@ -89,8 +89,7 @@ Prepárate para **aventuras épicas**, **mascotas adorables**, **drama romántic
 ### 👑 ¡Personaliza, ríe y conquista en RPG-Ultra V3!
 
 **Editado por:** *SoyMaycol*  
-**Contacto:** +51 921 826 291  
-_(Cambia esto por tu nombre si haces tu propia versión)_
+**Contacto:** +51 921 826 291
 
 ---
 
