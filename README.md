@@ -7,9 +7,9 @@ Prepárate para **aventuras épicas**, **mascotas adorables**, **drama romántic
 
 ---
 
-## ╔═══════════════>SoyMaycol
+## ╔═════════════════>SoyMaycol
 ###  COMANDOS DE ACCIÓN 👻
-## ╠═══════════════>SoyMaycol
+## ╠═════════════════>SoyMaycol
 
 - ➤ `rpgprofile` → Muestra tu perfil épico.
 - ➤ `adventure` → ¡Explora mazmorras misteriosas!
