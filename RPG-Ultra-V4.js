@@ -1746,8 +1746,9 @@ ${persona.tipo == 'enemigo' ? '\n💔 Parece que esta persona no fue buena compa
   }
 }
 
-handler.help = ['rpg']
-handler.tags = ['rpg']
-handler.command = /^(rpg|rpgultra|ultra)$/i
+
+handler.help = ['rpg', 'rpg <comando>']
+handler.tags = ['fun']
+handler.command = ['rpg']
 
 export default handler
